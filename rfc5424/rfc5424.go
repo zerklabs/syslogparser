@@ -5,10 +5,11 @@ package rfc5424
 
 import (
 	"fmt"
-	"github.com/jeromer/syslogparser"
 	"math"
 	"strconv"
 	"time"
+
+	"github.com/zerklabs/syslogparser"
 )
 
 const (
